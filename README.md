@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eton1234
 - 🌱 I’m a CS student at Northwestern
-- 💞️ I’m interested in how I can use computer science to augument learning, specifically in language learning and music! 
+- 💞️ I’m interested in how I can use computer science to augument learning, specifically in language learning and music! Currently, I'm attempting to build an ereader for language learning with swift. I'm also working on Recess, a friendship making IOS app with some of my friends. 
 - 📫 H
 
 <!---
